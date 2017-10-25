@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/leyleo/jsmodule#readme",
   "files": {
-    "index.js"
+    "index.js",
+    "package.json"
   }
 }
