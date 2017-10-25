@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/leyleo/jsmodule/issues"
   },
-  "homepage": "https://github.com/leyleo/jsmodule#readme"
+  "homepage": "https://github.com/leyleo/jsmodule#readme",
+  "dependencies": {
+    "express": ">1.0.0"
+  }
 }
